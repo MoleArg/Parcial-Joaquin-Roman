@@ -1,0 +1,4 @@
+Para el correcto funcionamiento es necesario instalar cors en el navegador
+
+https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino
+https://addons.mozilla.org/es/firefox/addon/cors-unblock/
