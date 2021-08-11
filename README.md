@@ -1,4 +1,4 @@
-# Parcial 1 - Laboratiorio de Computacion IV
+# Parcial 1 - Laboratorio de Computacion IV
 
 ## Project setup
 ```
